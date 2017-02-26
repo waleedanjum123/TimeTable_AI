@@ -5,6 +5,7 @@ import java.util.Random;
 public class Algorithm 
 {
 	//population of chromosomes
+	//ArrayList of chromosome
 	ArrayList<Schedule> chromosomes;
 	
 	

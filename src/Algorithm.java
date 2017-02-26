@@ -6,6 +6,7 @@ public class Algorithm
 {
 	//population of chromosomes
 	//ArrayList of chromosome
+	//contains a schedule
 	ArrayList<Schedule> chromosomes;
 	
 	

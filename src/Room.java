@@ -3,6 +3,8 @@ public class Room
 {
 	int room_id;
 	//************************
+	//************************
+
 	String room_name;
 	
 	
